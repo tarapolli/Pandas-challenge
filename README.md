@@ -1,7 +1,7 @@
 # Pandas-challenge
 
 Objectives
-..
+.
 In this this PyCitySchools scenario, lets assume that I am the Chief Data Scientist for my city’s school district, comprised of 15 schools of both charter and districts. I am tasked with helping the school board and mayor make strategic decisions regarding future school budgets and priorities.  I have been provided with access to every student’s math and reading scores, as well as various information on the schools they attend. I aggregated the data to showcase the following trends in school performance:
 
 o	District Summary
